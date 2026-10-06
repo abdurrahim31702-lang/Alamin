@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Aurelis Dental — The Art of Your Smile",
+      "hasCanvas": false,
+      "bodyTextLen": 5690,
+      "bodyTextHash": "60b16ad74ace8f46fa504f2a7d420cb8e6a714fc01a11c1675518c6d016db048",
+      "bodyTextPrefix": "Skip to content AURELIS TREATMENTS SMILE GALLERY PHILOSOPHY TECH",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Aurelis Dental — The Art of Your Smile",
+      "hasCanvas": false,
+      "bodyTextLen": 5483,
+      "bodyTextHash": "8b2899fcbbc09b924e055771d3a54ba8e5a0ac8c34f2f7818cb1907c5f7b783e",
+      "bodyTextPrefix": "Skip to content AURELIS COSMETIC DENTISTRY / INDIA The art of yo",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
